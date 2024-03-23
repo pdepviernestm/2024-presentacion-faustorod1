@@ -1,7 +1,8 @@
 # Presentacion Personal
 ## Fausto Rodríguez
 ___
-> Tengo 19 años y estoy en el segundo año de Ingenieria en Sistemas.
+> **Tengo 19 años y estoy en el segundo año de Ingenieria en Sistemas.**
+
 Cosas que me gustan:
 - Entrenar [Calistenia](https://es.wikipedia.org/wiki/Calistenia)
 - Andar en bici
